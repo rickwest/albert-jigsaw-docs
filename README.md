@@ -2,6 +2,7 @@
 
 [Albert](https://github.com/albertlauncher/albert) extension for quickly and easily searching the [Jigsaw](https://jigsaw.tighten.co) (by Tighten) documentation.
 
+![Screenshot](albert-jigsaw-docs.gif)
 
 ## Requirements
 
