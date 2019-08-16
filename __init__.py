@@ -99,11 +99,11 @@ def handleQuery(query):
                         id=__prettyname__,
                         icon=icon,
                         text="Open Docs",
-                        subtext="No match found. Open jigsaw.tighten.co/docs...",
+                        subtext="No match found. Open jigsaw.tighten.co...",
                         actions=[
                             UrlAction(
                                 "Open the Jigsaw Documentation",
-                                "https://jigsaw.tighten.co/docs",
+                                "https://jigsaw.tighten.co",
                             )
                         ],
                     )
@@ -115,10 +115,10 @@ def handleQuery(query):
                     id=__prettyname__,
                     icon=icon,
                     text="Open Docs",
-                    subtext="Open jigsaw.tighten.co/docs...",
+                    subtext="Open jigsaw.tighten.co...",
                     actions=[
                         UrlAction(
-                            "Open the Jigsaw Documentation", "https://jigsaw.tighten.co/docs"
+                            "Open the Jigsaw Documentation", "https://jigsaw.tighten.co"
                         )
                     ],
                 )
